@@ -1,0 +1,141 @@
+
+body {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    font-family: Amatic SC;
+    background-color:#625F58; 
+        
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    margin:0px;
+    padding:0px;
+    
+}
+
+.main-container h2 {
+    text-align: center;
+    font-size:60px;
+    margin:0 0 40px 0 ;
+    padding:0px;
+}
+
+#apps {
+  
+    text-align: center;
+  width: 400px;
+    height: 400px;
+    margin: auto;
+    overflow: hidden;
+    border: 10px solid #ffffff;
+    -moz-box-sizing:content-box;
+    box-sizing:content-box;
+    position: relative;
+
+}
+
+p {
+    font-size:14px;
+}
+
+#apps div {
+text-decoration: none;
+display: inline-block;
+width: 100%;
+height: 400px;
+border-radius: 8px;
+text-align: center;
+font-size: 50px;
+font-family: helvetica;
+color: #bbbbbb;
+}
+
+#apps div img {
+font-size: 40px;
+}
+
+    
+.main-container {
+    position: relative;
+    text-align: center;
+    
+}
+
+
+#apps div.prep-right {
+    left: 400px;    
+}
+
+.box {
+    position: absolute;
+    left: 400px;
+    margin-top:50px;
+    top: 0;
+    font-style: Amatic SC;
+}
+
+.box:first-child {
+    left: 0;
+    top: 0;
+}
+h3 {
+    font-size:25px;
+    padding:0px;
+   
+    
+}
+
+.main-container h3{
+    text-align: center;
+}
+
+
+#right {
+    border-radius: 5px;
+    border:2px outset;
+    font-size: 35px;
+    width:120px;
+    font-style: bold;
+    font-family: Amatic SC;
+     margin-left:20px;
+   
+}
+
+
+
+#silverware {
+     width:50px;
+    margin-top:20px;
+}
+
+#left {
+    border-radius: 5px;
+    border:2px outset;
+    font-size: 35px;
+    width:120px;
+    font-style: bold;
+    font-family: Amatic SC;
+    margin-right:20px;
+}
+
+#bottom {
+height:50px;
+text-align: center;
+    margin-top: 10px;
+    
+    
+    
+}
+
+.main {
+    width:500px;
+}
+
+#bottom h3{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    
+}
